@@ -1,6 +1,7 @@
 在审SCI论文
 
 [1] Weilin Zhong, Jinsheng Ji, Mingkang Xiong, Jiyuan Liu, Huilin Xiong. “Spatio-Temporal Alignment for Video-based Person Re-identification”. IEEE Transactions on Image Processing, 2020. (一作SCI,在审)
+
 [2] Weilin Zhong, Jinsheng Ji, Huilin Xiong. “Modality-identity Disentanglement Network for Visible-infrared Person Re-Identification”. Pattern Recognition, 2020. (一作SCI,大修)
 
 已中SCI论文
